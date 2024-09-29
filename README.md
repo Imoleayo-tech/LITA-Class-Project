@@ -25,8 +25,16 @@ In the initial cleaning of data and preparation, we performed the following
 - Handling Variables
 - Data Cleaning and Formatting
 
-### Expository Data Analysis
+
+### Explository Data Analysis
 EDA involves exploring of data to answer some questions about the data such as:
 - What is the overall sales trend?
 - Which product are top sellers?
 - What are the product on peak sales?
+
+### Data Analysis
+This is where i want include some basic line of code or queries or even of DAX expression used during analysis
+
+
+select * from Employee_cl
+where FirstName = 'justin
