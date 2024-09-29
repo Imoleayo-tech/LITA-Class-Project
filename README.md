@@ -1,4 +1,28 @@
 # LITA-Class-Project
+
+### Project Title: E Commerce Sales Analysis
+
+### [Project Overview](project.overview)
+
+### [Data Sources](data.sources)
+
+### Tools Used
+
+### Data Cleaning and Preparation
+
+### Explository Data Analysis
+
+### [Data Analysis](data.analysis)
+
+### Data Visualization (To add picture, chart)
+
+
+
+
+
+
+
+# LITA-Class-Project
 This is where i want to put my first project while learning Data Analysis with the incubator hub
 
 ### Project Title: E Commerce Sales Analysis
