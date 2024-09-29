@@ -38,3 +38,21 @@ This is where i want include some basic line of code or queries or even of DAX e
 
 select * from Employee_cl
 where FirstName = 'justin
+
+
+### Data Visualization (To add picture, chart)
+
+CREATE TABLE Employee (
+ staffid varchar (255) not null,
+ FirstName varchar (255) NOT NULL,
+ SecondName varchar (255),
+ Gender varchar (10),
+ Date_of_Birth date,
+ HireDate datetime,
+ primary key (staffid)
+ )
+ select * from Employee
+
+[Heading 1] [Heading 2] [Haeding 3]
+[.........] [.........] [.........]
+[Table 1 ]  [Table 2]   [Table 3]
