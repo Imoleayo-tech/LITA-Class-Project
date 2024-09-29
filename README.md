@@ -10,3 +10,11 @@ To pursue a successful professional career in a challenging work environment wit
 ### Data Sources
 ----AND ---OR SELECT * FROM EMPLOYEE WHERE FIRSTNAME = 'JUSTIN' SELECT * FROM EMPLOYEE WHERE FIRSTNAME = 'JUSTIN' AND GENDER = 'FEMALE'
 SELECT * FROM EMPLOYEE WHERE FIRSTNAME = 'JOHNSON' AND GENDER = 'FEMALE'
+
+### Tools Used
+- Microsoft Excel: for Data Cleaning, Amalysis, and Visualization
+    1. for data cleaning
+    2. for analysis
+    3. for data visualization
+- Structured Qyery Language (SQL): for querying data
+- Github: for portfolio building
