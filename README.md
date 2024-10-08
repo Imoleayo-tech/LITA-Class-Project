@@ -1,6 +1,6 @@
 # LITA-Class-Project
 
-### Project Title: E Commerce Sales Analysis
+### Project Title: LITA Data Analysis Program 
 
 ### [Project Overview](project.overview)
 
