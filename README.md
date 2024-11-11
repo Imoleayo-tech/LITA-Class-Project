@@ -82,6 +82,21 @@ This is where i want to put my first project and everything that was taught whil
 ![Screenshot (57)](https://github.com/user-attachments/assets/3ab0ab20-80bd-45cc-9e4a-ea4dcac0139f)
 ![Screenshot (55)](https://github.com/user-attachments/assets/9ec5480a-1a8b-4c41-ab1c-0a279b5b5c7a)
 ![Screenshot (58)](https://github.com/user-attachments/assets/8ffa4bca-aff3-4550-a842-1574ab5a09ca)
+![Screenshot (66)](https://github.com/user-attachments/assets/0f016c0c-9777-44f2-acc3-5c570158573c)
+![Screenshot (65)](https://github.com/user-attachments/assets/7e0037b2-0617-4caa-aeba-a4a92d1aaf42)
+![Screenshot (64)](https://github.com/user-attachments/assets/213316b9-2243-4528-952a-14d65d24b8b7)
+![Screenshot (63)](https://github.com/user-attachments/assets/2b69fee8-3d58-4ae0-a354-ac8bbaf066b0)
+![Screenshot (62)](https://github.com/user-attachments/assets/cabae260-0465-4e2c-9d72-1f00a91f2518)
+![Screenshot (61)](https://github.com/user-attachments/assets/a038f2a1-2163-4fd8-9915-c5282a0979ca)
+![Screenshot (60)](https://github.com/user-attachments/assets/1b42f800-9452-4f41-9855-d5b0e9ccfcbf)
+![Screenshot (59)](https://github.com/user-attachments/assets/90879430-eadc-4fa2-9d6b-0d2ef092db4e)
+![Screenshot (71)](https://github.com/user-attachments/assets/5d97341d-cfc1-4417-ab5f-055573e5d9af)
+![Screenshot (70)](https://github.com/user-attachments/assets/96802063-0e9a-4c2e-9647-2567e7e5da9c)
+![Screenshot (69)](https://github.com/user-attachments/assets/510aadf6-5ec5-4ba3-98a1-2c720ea40e90)
+![Screenshot (68)](https://github.com/user-attachments/assets/2fd8cac4-2aaa-484f-b3d3-853927f8476f)
+![Screenshot (67)](https://github.com/user-attachments/assets/afc43999-0b64-4578-aefe-aab7f51ac95a)
+
+
 
 
 
