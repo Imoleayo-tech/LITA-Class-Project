@@ -1,5 +1,25 @@
 # LITA-Class-Project
 
+## Profile
+
+### Skills
+
+### Experience
+
+### Education
+
+### Certification
+
+### Course Outline
+
+### Tools Used 
+
+### Class Exercises on Excel
+
+### Class Exercise on Structured Query Language (SQL)
+
+### Class Exercise on Power BI
+
 ### Project Title: LITA Data Analysis Training Program (HR Data)
 
 ### [Project Overview](project.overview)
