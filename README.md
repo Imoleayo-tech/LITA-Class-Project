@@ -38,7 +38,7 @@
 
 
 # LITA-Class-Project
-This is where i want to put my first project while learning Data Analysis with the incubator hub
+This is where i want to put my first project and everything that was taught while learning Data Analysis with the incubator hub
 
  ## Profile
  Username: Imoleayo-tech
@@ -81,9 +81,10 @@ This is where i want to put my first project while learning Data Analysis with t
 ### Class Exercise on Power BI
 
 ### Project Title: LITA Data Analysis Training Program (HR Data) 
+This contains the procedures used in cleaning HR Data and creating insightful visuals using HR Data 
 
 ### Project Overview
-To pursue a successful professional career in a challenging work environment with opportunities for career development based on demonstrated performances and achievements, with hard work and effective team work to meet organizational and personal objectives. 
+The objective of this project is to create insightful visuals in the HR Data and for summarization of the HR data. 
 
 ### Tools Used
 - Microsoft Excel: for Data Cleaning, Amalysis, and Visualization [www.microsoft.excel.com]
