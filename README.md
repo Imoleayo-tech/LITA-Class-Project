@@ -79,6 +79,11 @@ This is where i want to put my first project and everything that was taught whil
 
 ### Class Exercise on SQL
 ![Screenshot (56)](https://github.com/user-attachments/assets/c945d4a5-a136-4173-bbeb-a2e64b5d146a)
+![Screenshot (57)](https://github.com/user-attachments/assets/3ab0ab20-80bd-45cc-9e4a-ea4dcac0139f)
+![Screenshot (55)](https://github.com/user-attachments/assets/9ec5480a-1a8b-4c41-ab1c-0a279b5b5c7a)
+![Screenshot (58)](https://github.com/user-attachments/assets/8ffa4bca-aff3-4550-a842-1574ab5a09ca)
+
+
 
 ### Class Exercise on Power BI
 
