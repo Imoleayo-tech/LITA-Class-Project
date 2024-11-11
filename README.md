@@ -78,6 +78,8 @@ This is where i want to put my first project and everything that was taught whil
 [INCUBATORCopy of Excel Functions 3 - LookUp(1).xlsx](https://github.com/user-attachments/files/17694974/INCUBATORCopy.of.Excel.Functions.3.-.LookUp.1.xlsx)
 
 ### Class Exercise on SQL
+![Screenshot (56)](https://github.com/user-attachments/assets/c945d4a5-a136-4173-bbeb-a2e64b5d146a)
+
 ### Class Exercise on Power BI
 
 ### Project Title: LITA Data Analysis Training Program (HR Data) 
