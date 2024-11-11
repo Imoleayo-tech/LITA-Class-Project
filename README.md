@@ -96,11 +96,8 @@ This is where i want to put my first project and everything that was taught whil
 ![Screenshot (68)](https://github.com/user-attachments/assets/2fd8cac4-2aaa-484f-b3d3-853927f8476f)
 ![Screenshot (67)](https://github.com/user-attachments/assets/afc43999-0b64-4578-aefe-aab7f51ac95a)
 
-
-
-
-
 ### Class Exercise on Power BI
+
 
 ### Project Title: LITA Data Analysis Training Program (HR Data) 
 This contains the procedures used in cleaning HR Data and creating insightful visuals using HR Data 
