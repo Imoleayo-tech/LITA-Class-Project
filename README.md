@@ -97,10 +97,21 @@ This is where i want to put my first project and everything that was taught whil
 ![Screenshot (67)](https://github.com/user-attachments/assets/afc43999-0b64-4578-aefe-aab7f51ac95a)
 
 ### Class Exercise on Power BI
+![Screenshot (100)](https://github.com/user-attachments/assets/1d5b01f9-e954-4edf-9c93-ebf7a28bd72e)
+![IMG-20241020-WA0030](https://github.com/user-attachments/assets/4709e8ac-05e1-4f9e-a1cf-eab3b872e748)
 
 
 ### Project Title: LITA Data Analysis Training Program (HR Data) 
 This contains the procedures used in cleaning HR Data and creating insightful visuals using HR Data 
+![Screenshot (101)](https://github.com/user-attachments/assets/b5b18f1f-5b83-4582-ade8-c2a64c6169a3)
+![Screenshot (99)](https://github.com/user-attachments/assets/7336a660-554e-42da-80f4-624c68aa2d95)
+![Screenshot (98)](https://github.com/user-attachments/assets/63b0a4cb-4cb0-45d4-8c8d-3c63d15b4b58)
+![Screenshot (97)](https://github.com/user-attachments/assets/0704146e-0452-463f-958d-e4d524fad846)
+![Screenshot (96)](https://github.com/user-attachments/assets/afe8a224-21c2-4e00-a157-7c2e36604c8c)
+![Screenshot (95)](https://github.com/user-attachments/assets/13fdd403-d089-4e12-873f-7756ecaff073)
+![Screenshot (94)](https://github.com/user-attachments/assets/5b14276b-8b18-49ae-aa12-1fe4fbf86c06)
+![Screenshot (93)](https://github.com/user-attachments/assets/914b44b7-602a-41b4-b566-2e4c268c6a36)
+
 
 ### Project Overview
 The objective of this project is to create insightful visuals in the HR Data and for summarization of the HR data. 
