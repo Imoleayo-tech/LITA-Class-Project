@@ -98,7 +98,10 @@ This is where i want to put my first project and everything that was taught whil
 
 ### Class Exercise on Power BI
 ![Screenshot (100)](https://github.com/user-attachments/assets/1d5b01f9-e954-4edf-9c93-ebf7a28bd72e)
-![IMG-20241020-WA0030](https://github.com/user-attachments/assets/4709e8ac-05e1-4f9e-a1cf-eab3b872e748)
+![Screenshot (93)](https://github.com/user-attachments/assets/478ea182-fe4a-454b-8ed4-734a8ba44e2d)
+![Screenshot (91)](https://github.com/user-attachments/assets/1697bfcc-2ac0-4365-9e84-f85650a363b8)
+![Screenshot (90)](https://github.com/user-attachments/assets/97888f18-4c53-438a-b028-421b9bf9f7d9)
+
 
 
 ### Project Title: LITA Data Analysis Training Program (HR Data) 
